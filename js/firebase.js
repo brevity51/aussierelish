@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBxkKIbifvdZAdAoHKq4mS4e7fiwR3mEbA",
-  authDomain: "foodneuronet.firebaseapp.com",
-  databaseURL: "https://foodneuronet-default-rtdb.firebaseio.com",
-  projectId: "foodneuronet",
-  storageBucket: "foodneuronet.appspot.com",
-  messagingSenderId: "857948478467",
-  appId: "1:857948478467:web:fe5bbc048295f40b068236",
+  apiKey: "AIzaSyAOSA2mQkf6jvstblBfdVdALDKutuesw6M",
+  authDomain: "bioasian.firebaseapp.com",
+  databaseURL: "https://bioasian-default-rtdb.firebaseio.com",
+  projectId: "bioasian",
+  storageBucket: "bioasian.appspot.com",
+  messagingSenderId: "667048075988",
+  appId: "1:667048075988:web:cb4d2cf678eff7ca369141"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
